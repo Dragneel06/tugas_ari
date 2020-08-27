@@ -1,0 +1,14 @@
+Materi day 3
+
+kita memasuki fungsi command git branch, merge
+
+dimana fungsi dari git branch sendiri adalah seperti membuat repository cabang dari master
+itu sendiri, dimana project dari branch dikirim ke repository pusat yang ada di web repository
+
+cara untuk membuat branch sendiri bisa di buat dari web repository yaitu gitlab/github
+dan satu cara lainnya bisa di buat di command promt terminal salah satunya di VS code
+dengan cara 
+ $ git checkout -b <branch name> (fungsinya untuk membuat cabang di repo online)
+ setelah itu menggunakan command
+ $ git pull origin <branch name> (untuk menarik semua data dari repo branch)
+
